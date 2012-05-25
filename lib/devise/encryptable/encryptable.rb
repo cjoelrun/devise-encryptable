@@ -6,7 +6,7 @@ module Devise
     :sha512 => 128,
     :clearance_sha1 => 40,
     :restful_authentication_sha1 => 40,
-    :authlogic_sha512 => 128
+    :authlogic_sha512 => 128,
     :md5 => 32
   }
 
